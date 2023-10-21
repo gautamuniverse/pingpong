@@ -37,7 +37,7 @@ The game uses local storage to store and retrieve the highest score and the play
 
 ## Live Website
 
-https://github.com/gautamuniverse/pingpong.github.io.git
+https://gautamuniverse.github.io/pingpong.github.io/
 
 ## Credits
 
