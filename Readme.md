@@ -37,7 +37,7 @@ The game uses local storage to store and retrieve the highest score and the play
 
 ## Live Website
 
-https://gautamuniverse.github.io/stopwatch.github.io/
+https://github.com/gautamuniverse/pingpong.github.io.git
 
 ## Credits
 
