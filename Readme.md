@@ -1,17 +1,17 @@
 # Ping Pong Game
 
-Welcome to the Ping Pong game! This simple web-based game features two rods at the top and bottom of the screen, controlled by the same keys. The objective is to score points by bouncing the ball between the rods. The player with the highest score wins the game.
+Welcome to the Ping Pong game! This simple web-based game features two players at the top and bottom of the screen, controlled by the same keys. The objective is to score points by bouncing the ball between the players. The player with the highest score wins the game.
 
 ## Game Rules
 
 1. Press the 'Enter' key or click on the 'Ok' button on alert to start a new round.
-2. Use the 'A' and 'D' keys to move both rods horizontally.
-3. The losing rod gets the ball for the next match, and both rods and the ball return to their starting positions.
+2. Use the 'A' and 'D' keys to move both players horizontally.
+3. The losing player gets the ball for the next match, and both players and the ball return to their starting positions.
 4. Scoring starts fresh at the beginning of every match.
 
 ## Features
 
-- Two rods at the top and bottom of the screen.
+- Two players at the top and bottom of the screen.
 - Responsive design for an enjoyable gaming experience.
 - Alerts for the highest score and the player who achieved it.
 - Local storage to store and retrieve the highest score and the player who scored it.
@@ -21,7 +21,7 @@ Welcome to the Ping Pong game! This simple web-based game features two rods at t
 1. Clone this repository or download the source code.
 2. Open the `index.html` file in a web browser.
 3. Press 'Enter' to start a new round.
-4. Use the 'A' and 'D' keys to move the rods and bounce the ball.
+4. Use the 'A' and 'D' keys to move the players and bounce the ball.
 
 ## Code
 
