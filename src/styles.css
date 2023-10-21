@@ -1,0 +1,63 @@
+body {
+  font-family: sans-serif;
+  margin:0px;
+  background-color: rgb(6, 89, 6);
+}
+
+#rule{
+  position: absolute;
+  top: 49.5%;
+  right: 0;
+  font-size: 9px;
+  color: rgb(56, 149, 64);
+  font-family: sans-serif;
+}
+
+.rodsContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  height: 100vh;
+  width: 100vw;
+}
+.rods {
+    height: 30px;
+    width: 200px;
+    border-radius: 3rem;
+    position: relative;
+    font-size: 0.8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+}
+
+#ball {
+  position: absolute;
+  top: 92vh;
+  left: 60px;
+  width: 25px;
+  height: 25px;
+  border-radius: 3rem;
+  background-image: radial-gradient(red, black);
+}
+
+#divider{
+  position: fixed;
+  top:50%;
+  width: 100%;
+  border-width:2px;
+  border-style: dashed;
+  border-color: rgb(215, 215, 215);
+}
+
+#rod1 {
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.555) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+ background-blend-mode: multiply,multiply;
+}
+
+#rod2 {
+  background-image: linear-gradient(to top, #09203f 0%, #6c899f 100%);
+}
+
