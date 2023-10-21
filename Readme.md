@@ -35,6 +35,10 @@ The game is built using HTML, CSS, and JavaScript. You can find the source code 
 
 The game uses local storage to store and retrieve the highest score and the player who achieved it. Data refreshes once you restart the browser or refresh the page.
 
+## Live Website
+
+https://gautamuniverse.github.io/stopwatch.github.io/
+
 ## Credits
 
 This Ping Pong game was created by Gautam. Feel free to reach out for any questions or feedback.
